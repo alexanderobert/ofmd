@@ -1,0 +1,6 @@
+BEGIN TRANSACTION;
+
+SELECT * FROM 'users';
+
+
+COMMIT;
